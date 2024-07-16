@@ -1,6 +1,8 @@
 # <h1 align="center">**`Telecomunicaciones en Argentina`**</h1>
 
-![alt text](Ciudad_conectada.jpg)
+<p align="center">
+<img src="Ciudad_conectada.jpg"  height=300>
+</p>
 
 ## **Descripción del problema y contexto**
 
