@@ -66,6 +66,12 @@ README.md: Este archivo, que proporciona una descripción detallada del proyecto
 
 El analisis realizado sobre los datos de acceso a internet reveló que los ingresos han mostrado un ingreso significativo desde 2020, que podria estar influenciado por la demanda aumentada de servicios de internet durante la pandemia. Sin embargo, la alta inflacion en nuestro pais afecta el poder adquisitivo de las personas lo que a su vez afecta la contratacion de servicios de internet, lo cual convierte a los accesos de internet en un punto delicado que hay que observar de manera constante. Este motivo invita a la toma de accion para mantener el crecimiento de la penetracion de internet y mitigar los efectos de la situacion economica actual. Priorizar la expansion de la red de fibra óptica e implementar estrategias en provincias con baja penetracion de internet para mejorar el acceso pueden aumentar la penetracion de internet y los ingresos economicos, ademas pueden mejorar la calidad y competitividad de los servicios ofrecidos en el mercado argentino de telecomunicaciones.
 
+## Fuente de datos
+
+- [Datasets principales](https://indicadores.enacom.gob.ar/datos-abiertos) -Obligatorio: Internet-
+- [Diccionario de datos](https://docs.google.com/document/d/1BYW0vT_DNIjjKM9v4hNg5KmqjRNOc7OBB1jCXc80gnI/edit#heading=h.hjukififf3ol)
+
+
 ### Datos de contacto :love_letter: :computer: :raising_hand_woman:
 
 - [LinkedIn](https://www.linkedin.com/in/rocio-alaniz-4418791ba/)
