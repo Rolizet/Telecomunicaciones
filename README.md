@@ -68,7 +68,7 @@ El analisis realizado sobre los datos de acceso a internet reveló que los ingre
 
 ## Fuente de datos
 
-- [Datasets principales](https://indicadores.enacom.gob.ar/datos-abiertos) -Obligatorio: Internet-
+- [Datasets principales](https://indicadores.enacom.gob.ar/datos-abiertos) -Principal: Internet-
 - [Diccionario de datos](https://docs.google.com/document/d/1BYW0vT_DNIjjKM9v4hNg5KmqjRNOc7OBB1jCXc80gnI/edit#heading=h.hjukififf3ol)
 
 
