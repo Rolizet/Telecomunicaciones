@@ -20,7 +20,7 @@ Este proyecto tiene como objetivo realizar un análisis del sector de las teleco
 
 #### Análisis Exploratorio de Datos (EDA): :mag: :eyes: :memo:
 
-Basandome en la principal actividad de la empresa que es el acceso a internet y teniendo en cuenta el Kpi propuesto, hicimos una seleccion de hojas a utilizar para tener una vision mas enfocada del mercado de internet en Argentina y que nuestro analisis este alineado. Se realizó un EDA exhaustivo utilizando Python en un Jupyter Notebook, donde se limpiaron, exploraron y visualizaron los datos para identificar patrones y tendencias clave.
+Basandome en la principal actividad de la empresa que es el acceso a internet y teniendo en cuenta el Kpi propuesto, hice una seleccion de hojas a utilizar para tener una vision mas enfocada del mercado de internet en Argentina y que nuestro analisis este alineado. Se realizó un EDA exhaustivo utilizando Python en un Jupyter Notebook, donde se limpiaron, exploraron y visualizaron los datos para identificar patrones y tendencias clave.
 
 1) **Importación y limpieza de datos:**
 - Importación de los datos desde un archivo excel.
